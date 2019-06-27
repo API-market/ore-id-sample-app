@@ -1,15 +1,15 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "25cc4eb6459fbdd4ba11deac371a0905",
+    "revision": "37edcf0f23c5beb10551d551d2bad968",
     "url": "/ore-id-sample-app/index.html"
   },
   {
-    "revision": "4473a4bfc6a0081212ef",
-    "url": "/ore-id-sample-app/static/js/2.52d96b87.chunk.js"
+    "revision": "0531a98ec462985b4898",
+    "url": "/ore-id-sample-app/static/js/2.3c458598.chunk.js"
   },
   {
-    "revision": "df1d9650965bb9ac39d2",
-    "url": "/ore-id-sample-app/static/js/main.fbe292ec.chunk.js"
+    "revision": "dc6cff1caf3b0616022b",
+    "url": "/ore-id-sample-app/static/js/main.cc0dc22e.chunk.js"
   },
   {
     "revision": "1ab1c5a246b27e5a4359",
