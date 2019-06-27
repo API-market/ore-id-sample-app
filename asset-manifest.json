@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/ore-id-sample-app/static/js/main.611c154f.chunk.js",
-    "main.js.map": "/ore-id-sample-app/static/js/main.611c154f.chunk.js.map",
+    "main.js": "/ore-id-sample-app/static/js/main.20265a69.chunk.js",
+    "main.js.map": "/ore-id-sample-app/static/js/main.20265a69.chunk.js.map",
     "runtime~main.js": "/ore-id-sample-app/static/js/runtime~main.027c8a0e.js",
     "runtime~main.js.map": "/ore-id-sample-app/static/js/runtime~main.027c8a0e.js.map",
-    "static/js/2.b042db60.chunk.js": "/ore-id-sample-app/static/js/2.b042db60.chunk.js",
-    "static/js/2.b042db60.chunk.js.map": "/ore-id-sample-app/static/js/2.b042db60.chunk.js.map",
+    "static/js/2.c652f294.chunk.js": "/ore-id-sample-app/static/js/2.c652f294.chunk.js",
+    "static/js/2.c652f294.chunk.js.map": "/ore-id-sample-app/static/js/2.c652f294.chunk.js.map",
     "index.html": "/ore-id-sample-app/index.html",
-    "precache-manifest.41a662d4d662bdc709d5f1781d7f756e.js": "/ore-id-sample-app/precache-manifest.41a662d4d662bdc709d5f1781d7f756e.js",
+    "precache-manifest.b1b40308e1b22697a87b00530af5ec62.js": "/ore-id-sample-app/precache-manifest.b1b40308e1b22697a87b00530af5ec62.js",
     "service-worker.js": "/ore-id-sample-app/service-worker.js",
     "static/media/Roboto-Medium.ttf": "/ore-id-sample-app/static/media/Roboto-Medium.d0884059.ttf"
   }
