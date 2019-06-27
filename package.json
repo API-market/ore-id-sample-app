@@ -1,17 +1,27 @@
 {
+  "homepage": "http://api-market.github.io/ore-id-sample-app",
   "name": "ore-id-sample-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "eos-auth": "^2.1.14",
+    "eos-transit-ledger-provider": "^3.3.1",
+    "eos-transit-lynx-provider": "^3.1.0",
+    "eos-transit-meetone-provider": "^3.1.0",
+    "eos-transit-scatter-provider": "^3.2.0",
+    "eos-transit-tokenpocket-provider": "^3.1.2",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-scripts": "3.0.1"
+    "react-router": "^5.0.1",
+    "react-scripts": "^3.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -27,5 +37,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^2.0.1",
+    "dotenv": "^8.0.0",
+    "node-sass": "^4.12.0"
   }
 }
